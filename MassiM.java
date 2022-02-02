@@ -1,5 +1,5 @@
 package neto;
-
+//проверить
 import java.util.Random;
 import java.util.Scanner;
 class MassiM {
